@@ -1,0 +1,17 @@
+{
+  "name": "genpark-max-sum-factor-graph-belief-propagation-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Max-Sum Factor Graph Belief Propagation Engine for Decentralized Coordination",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "multi-agent-systems",
+    "max-sum",
+    "factor-graphs",
+    "belief-propagation"
+  ]
+}
